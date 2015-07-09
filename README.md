@@ -8,7 +8,7 @@
 </tr>
 <tr>
 <td>Description</td>
-<td>Vinyl adapter for the file system</td>
+<td><a href="https://github.com/wearefractal/vinyl">Vinyl</a> adapter for the file system</td>
 </tr>
 <tr>
 <td>Node Version</td>
